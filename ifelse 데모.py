@@ -20,3 +20,6 @@ print("for in  =루프")
 lst = ["apple", 100, 3.14]
 for item in lst:
     print(item)
+
+tp = 123
+print(tp)
